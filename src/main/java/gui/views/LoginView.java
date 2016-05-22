@@ -32,7 +32,7 @@ public class LoginView extends VerticalLayout implements View {
     
     public void setUp(){
         
-        
+        // Ein Neuer Kommentar für Git.
         this.setSizeFull();
         final TextField userlogin=new TextField();
         userlogin.setCaption("Username");
